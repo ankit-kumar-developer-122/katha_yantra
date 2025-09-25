@@ -1,0 +1,2 @@
+
+export const DEFAULT_FILTER_PROMPT = `Indianize the following text by reframing ALL elements (names, cosmology, techniques, items, locations) through the lens of The Shut-in Sage of Bharatvarsha. This filter blends the popular 'System' genre with rich Vedic and Sanskrit mythology. Ensure techniques are based on Yoga, cultivation stages are based on Tapasya/Dharma/Moksha, and the 'System' interface is a Devanagari script holographic projection from a divine source.`;
